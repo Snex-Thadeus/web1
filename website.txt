@@ -5,6 +5,8 @@ body
 footer
 
 sidebar 
+social media icon
+contacts
 
 Thank you, welcome again
 
