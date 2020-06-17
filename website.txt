@@ -6,3 +6,5 @@ footer
 
 sidebar 
 
+Thank you, welcome again
+
