@@ -3,3 +3,6 @@ welcome to snex_tech enterprises
 header
 body
 footer
+
+sidebar 
+
